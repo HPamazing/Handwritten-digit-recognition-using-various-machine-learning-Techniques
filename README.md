@@ -14,7 +14,7 @@ MNIST dataset
 # Result
 CNN(convolution Neral Network) accuracy: 99.29 %
 
-KNN(K-nearest Neighbour) accuracy: 96.67 %
+KNN(K-nearest Neighbour) accuracy: 96.78 %
 
 SVM(support vector machine) accuracy: 97.80 %
 
