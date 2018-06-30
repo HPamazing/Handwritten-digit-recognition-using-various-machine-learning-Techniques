@@ -12,10 +12,10 @@ Python, scikit-learn machine learning python library,matplot-lib
 MNIST dataset
 
 # Result
-CNN(convolution Neral Network) accuracy: 99
+CNN(convolution Neral Network) accuracy: 99.29 %
 
-KNN(K-nearest Neighbour) accuracy: 96.67
+KNN(K-nearest Neighbour) accuracy: 96.67 %
 
-SVM(support vector machine) accuracy: 97.91
+SVM(support vector machine) accuracy: 97.91 %
 
-RFC(Random Forest) accuracy: 96.89
+RFC(Random Forest) accuracy: 96.89 %
